@@ -1,6 +1,6 @@
 # SVG Logo Generator
 ## Description
-The SVG Logo Generator allows users to create custom SVG logos by selecting a shape, inputting text, and choosing colors for both the text and shape. The application uses Node.js, Inquirer, and Jest for testing. Users can select from several shapes (Circle, Square, Triangle, Sonic, and Mario) and provide text for their logo. The generated logo is saved as an SVG file that can be opened in a web browser.
+The SVG Logo Generator allows users to create custom SVG logos by selecting a shape, inputting text, and choosing colors for both the text and shape. The application uses Node.js, Inquirer, and Jest for testing. Users can select from several shapes (Circle, Square, Triangle, Sonic, and Mario) and provide text for their logo. The generated logo is saved as an SVG file that can be opened in a web browser. Sonic is based off Sonic the Hedgehog and Mario from Super Mario. Those two are preset color choices for fun.
 
 # Installation
 1) Clone the repository:
