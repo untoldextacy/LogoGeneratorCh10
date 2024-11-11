@@ -6,13 +6,13 @@ The SVG Logo Generator allows users to create custom SVG logos by selecting a sh
 1) Clone the repository:
 
 ```bash
-git clone <repository-url>
+git clone https://github.com/untoldextacy/LogoGeneratorCh10
 ```
 
 2) Navigate to the project directory:
 
 ```bash
-cd <project-directory>
+cd LogoGeneratorCh10
 ```
 3) Install the dependencies:
 
