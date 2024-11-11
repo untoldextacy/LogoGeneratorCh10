@@ -41,7 +41,8 @@ Once you complete the prompts, the application will generate an logo.svg file in
 2) Follow the prompts to enter the text and colors.
 3) After completing the prompts, the SVG logo will be saved as logo.svg.
    
-Walkthrough Video
+## Walkthrough Video
+
 [A walkthrough video demonstrating how to use the application and showing the generated SVG file](https://youtu.be/9WwDiGO29h4)
 
 
